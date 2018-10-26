@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1f17a98e-72c0-45f3-8544-6c3c13ab8265",
+            "Value": {
+                "id": "8ca191d1-b85c-4580-bb41-8570d11488c5",
+                "resourcePath": "scripts\\script0\\script0.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "28b1d6f7-1a77-49b2-b93d-d0b89476c766",
             "Value": {
                 "id": "33548610-a54b-48c3-9cc4-10a4f2375544",
