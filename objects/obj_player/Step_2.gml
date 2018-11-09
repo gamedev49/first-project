@@ -15,5 +15,10 @@ if(place_meeting(x, y+vertical_velocity, collision_object)){
 		y += sign(vertical_velocity);
 	}
 	vertical_velocity=0;
+	on_ground = true;
+	double_jump = false;
+} else if(!place_meeting(x, y+1, collision_object)){
+	on_ground = false;
 }
 y += vertical_velocity;
+//show_debug_message(double_jump);
