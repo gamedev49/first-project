@@ -16,7 +16,7 @@ if(move != 0 and on_ground){
 
 //Vertical movement
 if(key_jump and not double_jump){
-	vertical_velocity = -6;
+	vertical_velocity = jump_height;
 	if(not on_ground){
 		double_jump = true;
 	}

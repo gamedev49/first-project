@@ -125,6 +125,20 @@
             "value": "0",
             "varName": "double_jump",
             "varType": 3
+        },
+        {
+            "id": "871a2612-e8f7-4313-bcec-a684d5d2c206",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "-6",
+            "varName": "jump_height",
+            "varType": 0
         }
     ],
     "solid": false,
