@@ -1,5 +1,3 @@
-var collision_object = obj_wall
-
 //keyboard check
 var key_left = keyboard_check(vk_left) or keyboard_check(ord("A"));
 var key_right = keyboard_check(vk_right) or keyboard_check(ord("D"));
@@ -23,4 +21,3 @@ if(key_jump and not double_jump){
 		double_jump = true;
 	}
 }
-vertical_velocity += g;

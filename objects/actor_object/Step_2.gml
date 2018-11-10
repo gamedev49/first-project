@@ -1,5 +1,3 @@
-var collision_object = obj_wall
-
 //Horizantal displacement
 if(place_meeting(x+horizantal_velocity, y, collision_object)){
 	while(!place_meeting(x+sign(horizantal_velocity),y,collision_object)){
