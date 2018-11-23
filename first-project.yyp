@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "51e12327-a98b-4eca-a9e4-1f4a135224d0",
+            "Value": {
+                "id": "b597c67e-1d5a-49cc-af9a-4463f2cd8681",
+                "resourcePath": "objects\\climbeable_object\\climbeable_object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6caef8d7-90e9-4911-9ffb-4407d61f4d39",
             "Value": {
                 "id": "cb3c9449-9ddd-4ac3-9122-ad226faef9d0",
@@ -135,6 +143,14 @@
             }
         },
         {
+            "Key": "93d60873-889c-488b-a280-c2b7716cb3f6",
+            "Value": {
+                "id": "75d098fe-a11c-4228-bb47-58e70e34e844",
+                "resourcePath": "objects\\obj_triangle_wall_right\\obj_triangle_wall_right.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9549e5f5-5f28-43dc-ae48-b73a80a80bdc",
             "Value": {
                 "id": "321052ca-f621-4f87-992f-83696556b9d5",
@@ -162,7 +178,15 @@
             "Key": "ba770130-2c00-4628-b826-d2f52087ebd8",
             "Value": {
                 "id": "93fc1a7d-d09b-48b8-8d2b-4d72dce17691",
-                "resourcePath": "sprites\\spt_triangle_wall\\spt_triangle_wall.yy",
+                "resourcePath": "sprites\\spt_triangle_wall_left\\spt_triangle_wall_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bcc240d7-8863-4918-b7fc-4efe3f3596da",
+            "Value": {
+                "id": "9d844270-8782-49e5-8c39-c3f6e40aeb04",
+                "resourcePath": "sprites\\spt_triangle_wall_right\\spt_triangle_wall_right.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -226,7 +250,7 @@
             "Key": "e3a60b21-a108-4960-b7f7-06dd34096733",
             "Value": {
                 "id": "93398585-185a-475e-9144-c80fb476eda9",
-                "resourcePath": "objects\\obj_triangle_wall\\obj_triangle_wall.yy",
+                "resourcePath": "objects\\obj_triangle_wall_left\\obj_triangle_wall_left.yy",
                 "resourceType": "GMObject"
             }
         },
