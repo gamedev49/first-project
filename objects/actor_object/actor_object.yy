@@ -13,16 +13,6 @@
             "enumb": 2,
             "eventtype": 3,
             "m_owner": "42231567-3c2f-4d04-b90e-c3fbc468fb57"
-        },
-        {
-            "id": "61608362-9a43-4217-9b77-567f27d90fcc",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "42231567-3c2f-4d04-b90e-c3fbc468fb57"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -80,7 +70,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": ".25",
+            "value": ".4",
             "varName": "g",
             "varType": 0
         },
@@ -113,20 +103,6 @@
             "varType": 0
         },
         {
-            "id": "97887fe4-2748-4a8f-8f07-2adc386340fa",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "double_jump",
-            "varType": 3
-        },
-        {
             "id": "871a2612-e8f7-4313-bcec-a684d5d2c206",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -136,8 +112,22 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "-6",
+            "value": "-8",
             "varName": "jump_height",
+            "varType": 0
+        },
+        {
+            "id": "3dde1931-2d7e-41fd-8076-a93527628b9f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "hp",
             "varType": 0
         }
     ],

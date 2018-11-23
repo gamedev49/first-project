@@ -26,7 +26,16 @@
         }
     ],
     "maskSpriteId": "8af50411-0887-4188-bc5c-d8f310834d00",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        {
+            "id": "cfdb7598-1a0b-4395-8c58-033bfe3981a9",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "42231567-3c2f-4d04-b90e-c3fbc468fb57",
+            "propertyId": "3dde1931-2d7e-41fd-8076-a93527628b9f",
+            "value": "100"
+        }
+    ],
     "parentObjectId": "42231567-3c2f-4d04-b90e-c3fbc468fb57",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -42,7 +51,20 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        
+        {
+            "id": "2f8e7f92-7a1a-4162-99d5-d8360f167cfb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "double_jump",
+            "varType": 1
+        }
     ],
     "solid": false,
     "spriteId": "8af50411-0887-4188-bc5c-d8f310834d00",

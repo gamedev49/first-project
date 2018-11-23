@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0b224c4a-1485-44f3-8d8c-ddc5b9426143",
+            "Value": {
+                "id": "ccfc25a1-bf85-4845-8dd6-32761c0a8f7d",
+                "resourcePath": "views\\0b224c4a-1485-44f3-8d8c-ddc5b9426143.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "115f3ab0-7c86-4557-8c1b-03cc3721b597",
             "Value": {
                 "id": "a12a0940-17bf-47b3-a0e1-723688610b74",
@@ -106,7 +114,7 @@
             "Key": "8600c42b-bf7b-4f4c-ae49-2476eace1cb5",
             "Value": {
                 "id": "38b80970-76b5-49fe-a5d3-baacc80e9f28",
-                "resourcePath": "sprites\\spt_wall\\spt_wall.yy",
+                "resourcePath": "sprites\\spt_square_wall\\spt_square_wall.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -146,8 +154,16 @@
             "Key": "a1d48e4c-0476-4933-b6ed-5f91cdab23c4",
             "Value": {
                 "id": "03b6d4d7-fc08-476d-a8c5-85a7b1ab647d",
-                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourcePath": "objects\\obj_square_wall\\obj_square_wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ba770130-2c00-4628-b826-d2f52087ebd8",
+            "Value": {
+                "id": "93fc1a7d-d09b-48b8-8d2b-4d72dce17691",
+                "resourcePath": "sprites\\spt_triangle_wall\\spt_triangle_wall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -204,6 +220,14 @@
                 "id": "588d9a3c-d522-48f2-940e-56333cbb9094",
                 "resourcePath": "views\\dffc1788-6fe7-4351-8e72-f891ae3fa6e4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e3a60b21-a108-4960-b7f7-06dd34096733",
+            "Value": {
+                "id": "93398585-185a-475e-9144-c80fb476eda9",
+                "resourcePath": "objects\\obj_triangle_wall\\obj_triangle_wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {

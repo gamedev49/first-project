@@ -1,1 +1,0 @@
-vertical_velocity += g;

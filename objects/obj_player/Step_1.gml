@@ -14,10 +14,15 @@ if(move != 0 and on_ground){
 	horizantal_velocity = 0;
 }
 
+
 //Vertical movement
-if(key_jump and not double_jump){
+if(on_ground){
+	double_jump = 2;
+}
+
+if(key_jump and double_jump>0){
 	vertical_velocity = jump_height;
 	if(not on_ground){
-		double_jump = true;
+		double_jump -= 1;
 	}
 }
