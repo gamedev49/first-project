@@ -14,14 +14,9 @@ if(move != 0 and on_ground){
 	horizantal_velocity = 0;
 }
 
-if(horizantal_velocity != 0 and place_meeting(x+sign(horizantal_velocity),y,climbeable_object)){
-	y-=abs(horizantal_velocity);
-}
-
-
 //Vertical movement
 if(on_ground){
-	double_jump = 2;
+	double_jump = 1;
 }
 
 if(key_jump and double_jump>0){

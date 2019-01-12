@@ -1,3 +1,13 @@
+//health
+if(hp <= 0){
+	instance_destroy();
+}
+
+//climbables
+if(horizantal_velocity != 0 and place_meeting(x+sign(horizantal_velocity),y,climbeable_object)){
+	y-=abs(horizantal_velocity/3*2);
+}
+
 //Horizantal displacement
 if(place_meeting(x+horizantal_velocity, y, collision_object)){
 	while(!place_meeting(x+sign(horizantal_velocity),y,collision_object)){
