@@ -2,7 +2,7 @@
     "id": "51e12327-a98b-4eca-a9e4-1f4a135224d0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "climbeable_object",
+    "name": "slant_object",
     "eventList": [
         
     ],
