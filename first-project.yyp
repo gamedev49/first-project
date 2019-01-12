@@ -39,27 +39,11 @@
             }
         },
         {
-            "Key": "09e122ca-4d9b-4269-b21b-24063e48188f",
-            "Value": {
-                "id": "6487b3b5-69dc-4eed-bdf4-34ec65384cbb",
-                "resourcePath": "scripts\\verticalMovment\\verticalMovment.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "0b224c4a-1485-44f3-8d8c-ddc5b9426143",
             "Value": {
                 "id": "ccfc25a1-bf85-4845-8dd6-32761c0a8f7d",
                 "resourcePath": "views\\0b224c4a-1485-44f3-8d8c-ddc5b9426143.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "0d311c2b-f17b-4f6b-8575-f53865a674e2",
-            "Value": {
-                "id": "5959a7aa-564d-4680-b5c5-b1967e6f4fce",
-                "resourcePath": "scripts\\horizantalMovement\\horizantalMovement.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -124,14 +108,6 @@
                 "id": "cb3c9449-9ddd-4ac3-9122-ad226faef9d0",
                 "resourcePath": "views\\6caef8d7-90e9-4911-9ffb-4407d61f4d39.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "71011575-8f5d-49a9-9067-1c96bdfd303c",
-            "Value": {
-                "id": "58d1a793-ba08-4b15-ba76-b26629071863",
-                "resourcePath": "scripts\\climbMovment\\climbMovment.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -215,6 +191,14 @@
             }
         },
         {
+            "Key": "9a99916d-af4d-485c-848a-75e9591e705c",
+            "Value": {
+                "id": "b46ede95-e988-4dd6-9e82-63f1a53688c4",
+                "resourcePath": "scripts\\actorMovment\\actorMovment.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a1d48e4c-0476-4933-b6ed-5f91cdab23c4",
             "Value": {
                 "id": "03b6d4d7-fc08-476d-a8c5-85a7b1ab647d",
@@ -279,6 +263,14 @@
             }
         },
         {
+            "Key": "d382f924-cc0d-4d21-b960-a464c4645144",
+            "Value": {
+                "id": "49e1d08d-bf42-47ca-b51a-6099d298e2a5",
+                "resourcePath": "objects\\camera_object\\camera_object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "de60523d-11f7-4e37-a836-223d0e5b7bd6",
             "Value": {
                 "id": "6046987d-48f0-4b1a-89f0-de7ae0bc8c7f",
@@ -338,7 +330,7 @@
             "Key": "f5619756-42ec-49b2-ac95-b31f34cd1dca",
             "Value": {
                 "id": "4e43740c-aa5e-47a2-9166-7e31953e39e1",
-                "resourcePath": "scripts\\movement\\movement.yy",
+                "resourcePath": "scripts\\playerMovement\\playerMovement.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -360,10 +352,8 @@
         }
     ],
     "script_order": [
-        "0d311c2b-f17b-4f6b-8575-f53865a674e2",
-        "09e122ca-4d9b-4269-b21b-24063e48188f",
         "869d5da3-1b52-4fc5-8be5-a41be76c1313",
-        "71011575-8f5d-49a9-9067-1c96bdfd303c",
+        "9a99916d-af4d-485c-848a-75e9591e705c",
         "7f979a66-e9c2-462a-8a0d-a19d1c6435a3",
         "f5619756-42ec-49b2-ac95-b31f34cd1dca"
     ],
