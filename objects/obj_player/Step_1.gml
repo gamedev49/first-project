@@ -1,3 +1,3 @@
 inputs();
-movement();
+playerMovement();
 

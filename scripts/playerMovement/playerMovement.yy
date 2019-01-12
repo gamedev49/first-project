@@ -1,8 +1,8 @@
 {
-    "id": "71011575-8f5d-49a9-9067-1c96bdfd303c",
+    "id": "f5619756-42ec-49b2-ac95-b31f34cd1dca",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "climbMovment",
+    "name": "playerMovement",
     "IsCompatibility": false,
     "IsDnD": false
 }
