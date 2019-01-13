@@ -1,4 +1,2 @@
 healthCheck();
-climbMovment();
-horizantalMovement();
-verticalMovment();
+actorMovment();
