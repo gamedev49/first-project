@@ -2,7 +2,7 @@
     "id": "8600c42b-bf7b-4f4c-ae49-2476eace1cb5",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spt_square_wall",
+    "name": "spt_square_floor",
     "For3D": false,
     "HTile": false,
     "VTile": false,
