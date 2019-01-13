@@ -13,13 +13,9 @@ if(move != 0 and on_ground){
 	horizantal_velocity = 0;
 }
 
-if(move == -1 and place_meeting(x-1,y,wall_object)){
-	on_wall = true;
-} else if (move == 1 and place_meeting(x+1,y,wall_object)){
-	on_wall = true;
-} else {
-	on_wall = false;
-}
+on_wall = (move == -1 and place_meeting(x-1,y,wall_object)) 
+	   or (move == 1 and place_meeting(x+1,y,wall_object));
+
 
 //Vertical movement
 if(on_ground){
