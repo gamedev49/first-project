@@ -117,7 +117,7 @@
             "varType": 0
         },
         {
-            "id": "3dde1931-2d7e-41fd-8076-a93527628b9f",
+            "id": "1f28a222-a291-4d84-86df-1106c101f34d",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -127,8 +127,22 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "hp",
+            "varName": "hp_total",
             "varType": 0
+        },
+        {
+            "id": "3dde1931-2d7e-41fd-8076-a93527628b9f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "hp_total",
+            "varName": "hp",
+            "varType": 5
         }
     ],
     "solid": false,
