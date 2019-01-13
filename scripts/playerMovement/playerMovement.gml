@@ -13,6 +13,14 @@ if(move != 0 and on_ground){
 	horizantal_velocity = 0;
 }
 
+if(move == -1 and place_meeting(x-1,y,wall_object)){
+	on_wall = true;
+} else if (move == 1 and place_meeting(x+1,y,wall_object)){
+	on_wall = true;
+} else {
+	on_wall = false;
+}
+
 //Vertical movement
 if(on_ground){
 	double_jump = 1;
@@ -23,4 +31,8 @@ if(key_jump and double_jump>0){
 	if(not on_ground){
 		double_jump -= 1;
 	}
+}
+if(on_wall and sign(vertical_velocity)==1){
+	double_jump = 1;
+	vertical_velocity = vertical_velocity/2;
 }
