@@ -129,6 +129,20 @@
             "value": "0",
             "varName": "hp",
             "varType": 0
+        },
+        {
+            "id": "1f28a222-a291-4d84-86df-1106c101f34d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "hp_total",
+            "varType": 0
         }
     ],
     "solid": false,

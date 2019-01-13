@@ -79,14 +79,6 @@
             }
         },
         {
-            "Key": "39096fae-a2c0-4cc2-9f44-845a88dafd69",
-            "Value": {
-                "id": "2b6a7944-4777-4ad4-a21e-0dc57ea3b1d7",
-                "resourcePath": "scripts\\drawGUI\\drawGUI.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "3c5aa200-89be-4ec5-9aa0-f0443227530a",
             "Value": {
                 "id": "fc34f2d3-cf6b-4032-ac7a-e0c0603ca5f9",
@@ -124,14 +116,6 @@
                 "id": "a85af4bc-0cf9-4da6-97aa-464c2cca6007",
                 "resourcePath": "sprites\\spt_player_walking_left\\spt_player_walking_left.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4a7c374f-d706-43c5-a9c5-25eb274009e4",
-            "Value": {
-                "id": "0ee861b4-f0a2-4602-83a1-4c7ddf282893",
-                "resourcePath": "views\\4a7c374f-d706-43c5-a9c5-25eb274009e4.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -383,14 +367,6 @@
             }
         },
         {
-            "Key": "eab0fbf9-5830-4fd4-be67-56d5618683d0",
-            "Value": {
-                "id": "a4b0cc09-2b96-46c7-b2dd-6b55ce00e526",
-                "resourcePath": "scripts\\moveCamera\\moveCamera.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "ebb2b687-c53f-43cb-b258-13b56cce2bd0",
             "Value": {
                 "id": "e2d48a79-bb7b-49ff-ae74-acecde0534f1",
@@ -443,9 +419,7 @@
         "869d5da3-1b52-4fc5-8be5-a41be76c1313",
         "9a99916d-af4d-485c-848a-75e9591e705c",
         "7f979a66-e9c2-462a-8a0d-a19d1c6435a3",
-        "f5619756-42ec-49b2-ac95-b31f34cd1dca",
-        "eab0fbf9-5830-4fd4-be67-56d5618683d0",
-        "39096fae-a2c0-4cc2-9f44-845a88dafd69"
+        "f5619756-42ec-49b2-ac95-b31f34cd1dca"
     ],
     "tutorial": ""
 }
