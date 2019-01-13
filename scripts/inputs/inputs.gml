@@ -1,7 +1,8 @@
 //keyboard check
 
 if(keyboard_check(vk_escape)) game_end();
+if(keyboard_check(vk_space)) g = 0.2 else g = 0.4
 
-key_left = keyboard_check(vk_left) or keyboard_check(ord("A"));
-key_right = keyboard_check(vk_right) or keyboard_check(ord("D"));
-key_jump = keyboard_check_pressed(vk_space) or keyboard_check_pressed(ord("W"));
+key_left = keyboard_check(ord("A"));
+key_right = keyboard_check(ord("D"));
+key_jump = keyboard_check_pressed(ord("W"));
