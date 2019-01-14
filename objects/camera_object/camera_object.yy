@@ -43,6 +43,16 @@
             "enumb": 75,
             "eventtype": 8,
             "m_owner": "d382f924-cc0d-4d21-b960-a464c4645144"
+        },
+        {
+            "id": "ccb38789-18de-4eb4-a39a-9f742db36da8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 3,
+            "m_owner": "d382f924-cc0d-4d21-b960-a464c4645144"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -117,6 +127,20 @@
             "value": "obj_player",
             "varName": "target",
             "varType": 5
+        },
+        {
+            "id": "52699839-48a3-4390-9bc6-d65710ca544e",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "paused",
+            "varType": 3
         }
     ],
     "solid": false,
