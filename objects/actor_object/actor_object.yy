@@ -143,6 +143,20 @@
             "value": "hp_total",
             "varName": "hp",
             "varType": 5
+        },
+        {
+            "id": "48f3d223-b3e8-43e6-9fbe-92d11762c9da",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "paused",
+            "varType": 3
         }
     ],
     "solid": false,
